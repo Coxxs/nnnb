@@ -1,0 +1,9 @@
+{
+    "name": "Coxxs/nnnb",
+    "description": "Everything can be encoded into NNNB with PHP.",
+    "homepage": "https://github.com/Coxxs/nnnb",
+    "license": "MIT",
+    "require": {
+        "php": "^7.0"
+    }
+}
